@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/chloe-h-kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elenanakim/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,8 +25,8 @@
     <td width="50%" valign="top">
       <h3 align="center">KEA - Keep Each other Accountable</h3>
         <br />
-        <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://jade-courageous-perch.cyclic.app/">
+            <img src="https://github.com/Chloe-0123/Chloe-0123/blob/main/kea1gif.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
@@ -37,13 +38,13 @@
     DEMO
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>React, Typescript, TailwindCSS Node.js, MongoDB</strong> - Task tracker app for mutual accountability! Share your weekly tasks and track your friends' progress</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">E-Commerce</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://e-commerce-chi-seven.vercel.app">
+            <img src="https://github.com/Chloe-0123/Chloe-0123/blob/main/ecommercegif.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
@@ -55,7 +56,7 @@
     DEMO
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Next.js, Typescript, Node.js, MySQL</strong> - Experience the ultimate furniture shopping with interactive carousels and swipers. Sign in to start filling your cart!</p>
     </td>
   </tr>
   
@@ -63,8 +64,8 @@
     <td width="50%" valign="top">
       <h3 align="center">Mars Blog</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://erin-crane-belt.cyclic.app">
+          <img src="https://github.com/Chloe-0123/Chloe-0123/blob/main/marsbloggif.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -75,13 +76,13 @@
     DEMO
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Javascript, EJS, CSS, Node.js, Express.js, MongoDB</strong> - A blog for anything related to Mars and the rovers. Create new posts and interact with others via likes and comments</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Bakery</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://64d608346b617a000869996b--peaceful-nasturtium-bef15b.netlify.app">
+          <img src="https://github.com/Chloe-0123/Chloe-0123/blob/main/bakerygif.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
@@ -93,7 +94,7 @@
     
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3</strong> - Front-end website for a bakery</p>
     </td>
   </tr>
 </table>
