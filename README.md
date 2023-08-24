@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chloe</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Typescript, Next.js**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://chloe-h-kim.netlify.app](https://chloe-h-kim.netlify.app)
 
