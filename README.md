@@ -31,18 +31,15 @@
         <br />
         <p align="center">
           
-        <a href="https://github.com/williamchun1999/kea" target="_blank">
-          REPO
-        </a>  |
-        <a href="https://jade-courageous-perch.cyclic.app/" target="_blank">
-          DEMO
-        </a>
-        </p>
+  <a href="https://github.com/williamchun1999/kea" target="_blank">
+    REPO
+  </a>  |
+  <a href="https://jade-courageous-perch.cyclic.app/" target="_blank">
+    DEMO
+  </a>
+      </p>
         <p><strong>React, Typescript, TailwindCSS Node.js, MongoDB</strong> - Task tracker app for mutual accountability! Share your weekly tasks and track your friends' progress</p>
     </td>
-
-
-
     <td width="50%" valign="top">
       <h3 align="center">E-Commerce</h3>
         <br />
@@ -51,43 +48,19 @@
         </a>
         <br />
         <p align="center">
-                
-        <a href="https://github.com/Chloe-0123/e-commerce" target="_blank">
-          REPO
-        </a> |
-        <a href="https://e-commerce-chi-seven.vercel.app" target="_blank">
-          DEMO
-        </a>
+          
+  <a href="https://github.com/Chloe-0123/e-commerce" target="_blank">
+    REPO
+  </a> |
+  <a href="https://e-commerce-chi-seven.vercel.app" target="_blank">
+    DEMO
+  </a>
       </p>
         <p><strong>Next.js, Typescript, Node.js, MySQL</strong> - Experience the ultimate furniture shopping with interactive carousels and swipers. Sign in to start filling your cart!</p>
     </td>
   </tr>
-
-
-
   
   <tr>
-<td width="50%" valign="top">
-      <h3 align="center">E-Commerce</h3>
-        <br />
-      <a target="_blank" href="https://e-commerce-chi-seven.vercel.app">
-            <img src="https://github.com/Chloe-0123/Chloe-0123/blob/main/ecommercegif.gif" width="100%"  alt="Rigley 2"/>
-        </a>
-        <br />
-        <p align="center">
-                
-        <a href="https://github.com/Chloe-0123/e-commerce" target="_blank">
-          REPO
-        </a> |
-        <a href="https://e-commerce-chi-seven.vercel.app" target="_blank">
-          DEMO
-        </a>
-      </p>
-        <p><strong>Next.js, Typescript, Node.js, MySQL</strong> - Experience the ultimate furniture shopping with interactive carousels and swipers. Sign in to start filling your cart!</p>
-    </td>
-
-
-    
     <td width="50%" valign="top">
       <h3 align="center">Mars Blog</h3>
       <br />
@@ -105,8 +78,23 @@
       </p>
         <p><strong>Javascript, EJS, CSS, Node.js, Express.js, MongoDB</strong> - A blog for anything related to Mars and the rovers. Create new posts and interact with others via likes and comments</p>
     </td>
-
-
+    <td width="50%" valign="top">
+      <h3 align="center">Bakery</h3>
+        <br />
+        <a target="_blank" href="https://64d608346b617a000869996b--peaceful-nasturtium-bef15b.netlify.app">
+          <img src="https://github.com/Chloe-0123/Chloe-0123/blob/main/bakerygif.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://64d608346b617a000869996b--peaceful-nasturtium-bef15b.netlify.app" target="_blank">
+    DEMO
+  </a>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
     
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3</strong> - Front-end website for a bakery</p>
+    </td>
   </tr>
 </table>
