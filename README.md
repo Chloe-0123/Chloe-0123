@@ -62,23 +62,23 @@
   
   <tr>
     <td width="50%" valign="top">
-        <h3 align="center">E-Commerce</h3>
-          <br />
-        <a target="_blank" href="https://e-commerce-chi-seven.vercel.app">
-              <img src="https://github.com/Chloe-0123/Chloe-0123/blob/main/ecommercegif.gif" width="100%"  alt="Rigley 2"/>
-          </a>
-          <br />
-          <p align="center">
-            
-    <a href="https://github.com/Chloe-0123/e-commerce" target="_blank">
-      REPO
-    </a> |
-    <a href="https://e-commerce-chi-seven.vercel.app" target="_blank">
-      DEMO
-    </a>
-        </p>
-          <p><strong>Next.js, Typescript, Node.js, MySQL</strong> - Experience the ultimate furniture shopping with interactive carousels and swipers. Sign in to start filling your cart!</p>
-      </td>
+      <h3 align="center">E-Commerce</h3>
+        <br />
+      <a target="_blank" href="https://e-commerce-chi-seven.vercel.app">
+            <img src="https://github.com/Chloe-0123/Chloe-0123/blob/main/ecommercegif.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Chloe-0123/e-commerce" target="_blank">
+    REPO
+  </a> |
+  <a href="https://e-commerce-chi-seven.vercel.app" target="_blank">
+    DEMO
+  </a>
+      </p>
+        <p><strong>Next.js, Typescript, Node.js, MySQL</strong> - Experience the ultimate furniture shopping with interactive carousels and swipers. Sign in to start filling your cart!</p>
+    </td>
     <td width="50%" valign="top">
         <h3 align="center">Mars Blog</h3>
         <br />
@@ -95,6 +95,6 @@
     </a>
         </p>
           <p><strong>Javascript, EJS, CSS, Node.js, Express.js, MongoDB</strong> - A blog for anything related to Mars and the rovers. Create new posts and interact with others via likes and comments</p>
-      </td>
+    </td>
   </tr>
 </table>
