@@ -41,22 +41,22 @@
         <p><strong>React, Typescript, TailwindCSS Node.js, MongoDB</strong> - Task tracker app for mutual accountability! Share your weekly tasks and track your friends' progress</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">E-Commerce</h3>
+      <h3 align="center">RecipeMatch</h3>
         <br />
-      <a target="_blank" href="https://e-commerce-chi-seven.vercel.app">
-            <img src="https://github.com/Chloe-0123/Chloe-0123/blob/main/ecommercegif.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://recipe-match-f4bm.onrender.com/">
+            <img src="https://github.com/Chloe-0123/Chloe-0123/blob/main/recipeMatch.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Chloe-0123/e-commerce" target="_blank">
+  <a href="https://github.com/Chloe-0123/RecipeMatch" target="_blank">
     REPO
   </a> |
-  <a href="https://e-commerce-chi-seven.vercel.app" target="_blank">
+  <a href="https://recipe-match-f4bm.onrender.com/" target="_blank">
     DEMO
   </a>
       </p>
-        <p><strong>Next.js, Typescript, Node.js, MySQL</strong> - Experience the ultimate furniture shopping with interactive carousels and swipers. Sign in to start filling your cart!</p>
+        <p><strong>React, Redux, Node.js, MongoDB, Material UI</strong> - Stuck with ingredients and no dinner plan? RecipeMatch has your back, turning your fridge into a recipe goldmine!</p>
     </td>
   </tr>
   
