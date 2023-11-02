@@ -56,7 +56,7 @@
     DEMO
   </a>
       </p>
-        <p><strong>React, Redux, Node.js, MongoDB, Material UI</strong> - Stuck with ingredients and no dinner plan? RecipeMatch has your back, turning your fridge into a recipe goldmine!</p>
+        <p><strong>React, Redux, Node.js, MongoDB, Material UI</strong> - Stuck with ingredients and no dinner plan? RecipeMatch has your back, turning your fridge into a recipe goldmine! *slow authentication due to database hosting issue</p>
     </td>
   </tr>
   
